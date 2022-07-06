@@ -1,0 +1,7 @@
+/backup.sql/*.sql
+/backup.sql/*.pg_dump
+/backup.sql/*.zip
+/translate.sql/*.sql
+/translate.sql/*.pg_dump
+/backup.sql/*.zip
+db.config
